@@ -2,6 +2,9 @@
 
 Estudiante: Cristhian Pañora
 
+![WhatsApp Image 2024-06-10 at 15 56 45](https://github.com/risthian-P/Proyectos_Ionic_7/assets/117744044/124e6daf-cf79-4e0e-8892-2ccaa2efb262)
+
+
 1. Aplicación de hoja de vida (CV)
 Link: https://github.com/risthian-P/curriculum
 2. Aplicación para tomar fotos
